@@ -320,8 +320,6 @@
  */
 .toggle-color-mode-button {
   display: flex;
-  margin: auto;
-  margin-left: 1rem;
   border: 0;
   background: none;
   color: var(--c-text);
@@ -329,7 +327,6 @@
   cursor: pointer;
   display: block;
   height: 100%;
-  float: right;
   &:hover {
     opacity: 1;
   }
